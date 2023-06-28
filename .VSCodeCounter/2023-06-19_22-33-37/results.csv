@@ -1,0 +1,85 @@
+"filename", "language", "JavaScript JSX", "JavaScript", "CSS", "XML", "HTML", "comment", "blank", "total"
+"/Users/zer02/Project/ReactProj/cloud-music2/src/App.js", "JavaScript", 0, 23, 0, 0, 0, 0, 4, 27
+"/Users/zer02/Project/ReactProj/cloud-music2/src/App.test.js", "JavaScript", 0, 7, 0, 0, 0, 0, 2, 9
+"/Users/zer02/Project/ReactProj/cloud-music2/src/api/config.js", "JavaScript", 0, 184, 0, 0, 0, 3, 9, 196
+"/Users/zer02/Project/ReactProj/cloud-music2/src/api/request.js", "JavaScript", 0, 33, 0, 0, 0, 0, 9, 42
+"/Users/zer02/Project/ReactProj/cloud-music2/src/api/utils.js", "JavaScript", 0, 65, 0, 0, 0, 4, 9, 78
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/index.jsx", "JavaScript JSX", 174, 0, 0, 0, 0, 3, 11, 188
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/mock.js", "JavaScript", 0, 154, 0, 0, 0, 1, 0, 155
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/store/actionCreators.js", "JavaScript", 0, 27, 0, 0, 0, 0, 5, 32
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/store/constants.js", "JavaScript", 0, 3, 0, 0, 0, 0, 2, 5
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/store/index.js", "JavaScript", 0, 3, 0, 0, 0, 0, 0, 3
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/store/reducer.js", "JavaScript", 0, 20, 0, 0, 0, 0, 3, 23
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/style.js", "JavaScript", 0, 243, 0, 0, 0, 2, 6, 251
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Home/index.jsx", "JavaScript JSX", 45, 0, 0, 0, 0, 0, 4, 49
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Home/style.js", "JavaScript", 0, 46, 0, 0, 0, 0, 5, 51
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/index.jsx", "JavaScript JSX", 73, 0, 0, 0, 0, 0, 6, 79
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mini-player/index.jsx", "JavaScript JSX", 57, 0, 0, 0, 0, 0, 3, 60
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mini-player/progress-circle/index.jsx", "JavaScript JSX", 37, 0, 0, 0, 0, 2, 3, 42
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mini-player/progress-circle/style.js", "JavaScript", 0, 18, 0, 0, 0, 0, 3, 21
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mini-player/style.js", "JavaScript", 0, 89, 0, 0, 0, 0, 3, 92
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mock.js", "JavaScript", 0, 9, 0, 0, 0, 0, 1, 10
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/normal-palyer/index.jsx", "JavaScript JSX", 149, 0, 0, 0, 0, 6, 9, 164
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/normal-palyer/progress-bar/index.jsx", "JavaScript JSX", 56, 0, 0, 0, 0, 2, 10, 68
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/normal-palyer/progress-bar/style.js", "JavaScript", 0, 35, 0, 0, 0, 0, 3, 38
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/normal-palyer/style.js", "JavaScript", 0, 207, 0, 0, 0, 0, 8, 215
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/playlist/index.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/playlist/mock.js", "JavaScript", 0, 75, 0, 0, 0, 0, 2, 77
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/playlist/style.js", "JavaScript", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/store/actionCreators.js", "JavaScript", 0, 60, 0, 0, 0, 0, 10, 70
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/store/constants.js", "JavaScript", 0, 18, 0, 0, 0, 0, 2, 20
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/store/index.js", "JavaScript", 0, 4, 0, 0, 0, 0, 2, 6
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/store/reducer.js", "JavaScript", 0, 36, 0, 0, 0, 0, 4, 40
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/index.jsx", "JavaScript JSX", 92, 0, 0, 0, 0, 1, 9, 102
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/store/actionCreators.js", "JavaScript", 0, 29, 0, 0, 0, 0, 5, 34
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/store/constants.js", "JavaScript", 0, 3, 0, 0, 0, 0, 2, 5
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/store/index.js", "JavaScript", 0, 3, 0, 0, 0, 0, 2, 5
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/store/reducer.js", "JavaScript", 0, 17, 0, 0, 0, 0, 4, 21
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/style.js", "JavaScript", 0, 75, 0, 0, 0, 0, 6, 81
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/index.jsx", "JavaScript JSX", 59, 0, 0, 0, 0, 5, 6, 70
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/store/actionCreators.js", "JavaScript", 0, 50, 0, 0, 0, 1, 7, 58
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/store/constants.js", "JavaScript", 0, 4, 0, 0, 0, 0, 4, 8
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/store/index.js", "JavaScript", 0, 3, 0, 0, 0, 0, 2, 5
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/store/reducer.js", "JavaScript", 0, 20, 0, 0, 0, 0, 5, 25
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/style.js", "JavaScript", 0, 8, 0, 0, 0, 0, 2, 10
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/index.jsx", "JavaScript JSX", 126, 0, 0, 0, 0, 13, 9, 148
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/mock.js", "JavaScript", 0, 120, 0, 0, 0, 1, 1, 122
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/store/actionCreators.js", "JavaScript", 0, 38, 0, 0, 0, 0, 6, 44
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/store/constants.js", "JavaScript", 0, 4, 0, 0, 0, 0, 2, 6
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/store/index.js", "JavaScript", 0, 3, 0, 0, 0, 0, 2, 5
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/store/reducer.js", "JavaScript", 0, 20, 0, 0, 0, 0, 4, 24
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/style.js", "JavaScript", 0, 102, 0, 0, 0, 0, 7, 109
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/index.jsx", "JavaScript JSX", 158, 0, 0, 0, 0, 5, 9, 172
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/store/actionCreators.js", "JavaScript", 0, 122, 0, 0, 0, 6, 14, 142
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/store/constants.js", "JavaScript", 0, 16, 0, 0, 0, 0, 1, 17
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/store/index.js", "JavaScript", 0, 4, 0, 0, 0, 0, 2, 6
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/store/reduer.js", "JavaScript", 0, 40, 0, 0, 0, 0, 2, 42
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/style.js", "JavaScript", 0, 52, 0, 0, 0, 0, 6, 58
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SongsList/index.jsx", "JavaScript JSX", 52, 0, 0, 0, 0, 1, 8, 61
+"/Users/zer02/Project/ReactProj/cloud-music2/src/application/SongsList/style.js", "JavaScript", 0, 101, 0, 0, 0, 0, 2, 103
+"/Users/zer02/Project/ReactProj/cloud-music2/src/assets/global-style.js", "JavaScript", 0, 36, 0, 0, 0, 2, 2, 40
+"/Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/demo.css", "CSS", 0, 0, 435, 0, 0, 19, 86, 540
+"/Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/demo_index.html", "HTML", 0, 0, 0, 0, 815, 2, 113, 930
+"/Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/iconfont.css", "CSS", 0, 0, 123, 0, 0, 0, 39, 162
+"/Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/iconfont.js", "JavaScript", 0, 18, 0, 0, 0, 0, 3, 21
+"/Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/iconfont.svg", "XML", 0, 0, 0, 55, 0, 3, 77, 135
+"/Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/header/index.jsx", "JavaScript JSX", 31, 0, 0, 0, 0, 1, 5, 37
+"/Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/header/style.js", "JavaScript", 0, 23, 0, 0, 0, 0, 3, 26
+"/Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/horizon-item/index.jsx", "JavaScript JSX", 53, 0, 0, 0, 0, 0, 5, 58
+"/Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/horizon-item/style.js", "JavaScript", 0, 29, 0, 0, 0, 0, 4, 33
+"/Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/loading/index.jsx", "JavaScript JSX", 15, 0, 0, 0, 0, 0, 3, 18
+"/Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/loading/style.js", "JavaScript", 0, 49, 0, 0, 0, 0, 4, 53
+"/Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/scroll/index.jsx", "JavaScript JSX", 146, 0, 0, 0, 0, 13, 7, 166
+"/Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/scroll/style.js", "JavaScript", 0, 26, 0, 0, 0, 0, 5, 31
+"/Users/zer02/Project/ReactProj/cloud-music2/src/components/list/index.jsx", "JavaScript JSX", 53, 0, 0, 0, 0, 1, 4, 58
+"/Users/zer02/Project/ReactProj/cloud-music2/src/components/list/style.js", "JavaScript", 0, 66, 0, 0, 0, 2, 5, 73
+"/Users/zer02/Project/ReactProj/cloud-music2/src/components/slider/index.jsx", "JavaScript JSX", 46, 0, 0, 0, 0, 1, 5, 52
+"/Users/zer02/Project/ReactProj/cloud-music2/src/components/slider/style.js", "JavaScript", 0, 34, 0, 0, 0, 0, 2, 36
+"/Users/zer02/Project/ReactProj/cloud-music2/src/index.js", "JavaScript", 0, 11, 0, 0, 0, 3, 3, 17
+"/Users/zer02/Project/ReactProj/cloud-music2/src/reportWebVitals.js", "JavaScript", 0, 12, 0, 0, 0, 0, 2, 14
+"/Users/zer02/Project/ReactProj/cloud-music2/src/routes/index.jsx", "JavaScript JSX", 54, 0, 0, 0, 0, 4, 3, 61
+"/Users/zer02/Project/ReactProj/cloud-music2/src/setupTests.js", "JavaScript", 0, 1, 0, 0, 0, 4, 1, 6
+"/Users/zer02/Project/ReactProj/cloud-music2/src/store/index.jsx", "JavaScript JSX", 6, 0, 0, 0, 0, 0, 3, 9
+"/Users/zer02/Project/ReactProj/cloud-music2/src/store/reducer.jsx", "JavaScript JSX", 15, 0, 0, 0, 0, 0, 2, 17
+"/Users/zer02/Project/ReactProj/cloud-music2/src/style.js", "JavaScript", 0, 52, 0, 0, 0, 1, 1, 54
+"Total", "-", 1497, 2550, 558, 55, 815, 112, 656, 6243

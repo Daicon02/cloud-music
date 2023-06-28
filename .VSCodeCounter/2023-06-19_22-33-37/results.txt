@@ -1,0 +1,154 @@
+Date : 2023-06-19 22:33:37
+Directory : /Users/zer02/Project/ReactProj/cloud-music2/src
+Total : 83 files,  5475 codes, 112 comments, 656 blanks, all 6243 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript     |         57 |      2,550 |         30 |        216 |      2,796 |
+| JavaScript JSX |         22 |      1,497 |         58 |        125 |      1,680 |
+| HTML           |          1 |        815 |          2 |        113 |        930 |
+| CSS            |          2 |        558 |         19 |        125 |        702 |
+| XML            |          1 |         55 |          3 |         77 |        135 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                        |         83 |      5,475 |        112 |        656 |      6,243 |
+| . (Files)                                                                                                |          6 |        106 |          8 |         13 |        127 |
+| api                                                                                                      |          3 |        282 |          7 |         27 |        316 |
+| application                                                                                              |         53 |      2,959 |         49 |        236 |      3,244 |
+| application/Album                                                                                        |          7 |        624 |          6 |         27 |        657 |
+| application/Album (Files)                                                                                |          3 |        571 |          6 |         17 |        594 |
+| application/Album/store                                                                                  |          4 |         53 |          0 |         10 |         63 |
+| application/Home                                                                                         |          2 |         91 |          0 |          9 |        100 |
+| application/Player                                                                                       |         17 |        923 |         10 |         71 |      1,004 |
+| application/Player (Files)                                                                               |          2 |         82 |          0 |          7 |         89 |
+| application/Player/mini-player                                                                           |          4 |        201 |          2 |         12 |        215 |
+| application/Player/mini-player (Files)                                                                   |          2 |        146 |          0 |          6 |        152 |
+| application/Player/mini-player/progress-circle                                                           |          2 |         55 |          2 |          6 |         63 |
+| application/Player/normal-palyer                                                                         |          4 |        447 |          8 |         30 |        485 |
+| application/Player/normal-palyer (Files)                                                                 |          2 |        356 |          6 |         17 |        379 |
+| application/Player/normal-palyer/progress-bar                                                            |          2 |         91 |          2 |         13 |        106 |
+| application/Player/playlist                                                                              |          3 |         75 |          0 |          4 |         79 |
+| application/Player/store                                                                                 |          4 |        118 |          0 |         18 |        136 |
+| application/Rank                                                                                         |          6 |        219 |          1 |         28 |        248 |
+| application/Rank (Files)                                                                                 |          2 |        167 |          1 |         15 |        183 |
+| application/Rank/store                                                                                   |          4 |         52 |          0 |         13 |         65 |
+| application/Recommend                                                                                    |          6 |        144 |          6 |         26 |        176 |
+| application/Recommend (Files)                                                                            |          2 |         67 |          5 |          8 |         80 |
+| application/Recommend/store                                                                              |          4 |         77 |          1 |         18 |         96 |
+| application/SingerInfo                                                                                   |          7 |        413 |         14 |         31 |        458 |
+| application/SingerInfo (Files)                                                                           |          3 |        348 |         14 |         17 |        379 |
+| application/SingerInfo/store                                                                             |          4 |         65 |          0 |         14 |         79 |
+| application/Singers                                                                                      |          6 |        392 |         11 |         34 |        437 |
+| application/Singers (Files)                                                                              |          2 |        210 |          5 |         15 |        230 |
+| application/Singers/store                                                                                |          4 |        182 |          6 |         19 |        207 |
+| application/SongsList                                                                                    |          2 |        153 |          1 |         10 |        164 |
+| assets                                                                                                   |          6 |      1,482 |         26 |        320 |      1,828 |
+| assets (Files)                                                                                           |          1 |         36 |          2 |          2 |         40 |
+| assets/iconfont                                                                                          |          5 |      1,446 |         24 |        318 |      1,788 |
+| baseUI                                                                                                   |          8 |        372 |         14 |         36 |        422 |
+| baseUI/header                                                                                            |          2 |         54 |          1 |          8 |         63 |
+| baseUI/horizon-item                                                                                      |          2 |         82 |          0 |          9 |         91 |
+| baseUI/loading                                                                                           |          2 |         64 |          0 |          7 |         71 |
+| baseUI/scroll                                                                                            |          2 |        172 |         13 |         12 |        197 |
+| components                                                                                               |          4 |        199 |          4 |         16 |        219 |
+| components/list                                                                                          |          2 |        119 |          3 |          9 |        131 |
+| components/slider                                                                                        |          2 |         80 |          1 |          7 |         88 |
+| routes                                                                                                   |          1 |         54 |          4 |          3 |         61 |
+| store                                                                                                    |          2 |         21 |          0 |          5 |         26 |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                 | language       | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/zer02/Project/ReactProj/cloud-music2/src/App.js                                                   | JavaScript     |         23 |          0 |          4 |         27 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/App.test.js                                              | JavaScript     |          7 |          0 |          2 |          9 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/api/config.js                                            | JavaScript     |        184 |          3 |          9 |        196 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/api/request.js                                           | JavaScript     |         33 |          0 |          9 |         42 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/api/utils.js                                             | JavaScript     |         65 |          4 |          9 |         78 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/index.jsx                              | JavaScript JSX |        174 |          3 |         11 |        188 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/mock.js                                | JavaScript     |        154 |          1 |          0 |        155 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/store/actionCreators.js                | JavaScript     |         27 |          0 |          5 |         32 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/store/constants.js                     | JavaScript     |          3 |          0 |          2 |          5 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/store/index.js                         | JavaScript     |          3 |          0 |          0 |          3 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/store/reducer.js                       | JavaScript     |         20 |          0 |          3 |         23 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Album/style.js                               | JavaScript     |        243 |          2 |          6 |        251 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Home/index.jsx                               | JavaScript JSX |         45 |          0 |          4 |         49 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Home/style.js                                | JavaScript     |         46 |          0 |          5 |         51 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/index.jsx                             | JavaScript JSX |         73 |          0 |          6 |         79 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mini-player/index.jsx                 | JavaScript JSX |         57 |          0 |          3 |         60 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mini-player/progress-circle/index.jsx | JavaScript JSX |         37 |          2 |          3 |         42 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mini-player/progress-circle/style.js  | JavaScript     |         18 |          0 |          3 |         21 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mini-player/style.js                  | JavaScript     |         89 |          0 |          3 |         92 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/mock.js                               | JavaScript     |          9 |          0 |          1 |         10 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/normal-palyer/index.jsx               | JavaScript JSX |        149 |          6 |          9 |        164 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/normal-palyer/progress-bar/index.jsx  | JavaScript JSX |         56 |          2 |         10 |         68 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/normal-palyer/progress-bar/style.js   | JavaScript     |         35 |          0 |          3 |         38 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/normal-palyer/style.js                | JavaScript     |        207 |          0 |          8 |        215 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/playlist/index.jsx                    | JavaScript JSX |          0 |          0 |          1 |          1 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/playlist/mock.js                      | JavaScript     |         75 |          0 |          2 |         77 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/playlist/style.js                     | JavaScript     |          0 |          0 |          1 |          1 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/store/actionCreators.js               | JavaScript     |         60 |          0 |         10 |         70 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/store/constants.js                    | JavaScript     |         18 |          0 |          2 |         20 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/store/index.js                        | JavaScript     |          4 |          0 |          2 |          6 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Player/store/reducer.js                      | JavaScript     |         36 |          0 |          4 |         40 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/index.jsx                               | JavaScript JSX |         92 |          1 |          9 |        102 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/store/actionCreators.js                 | JavaScript     |         29 |          0 |          5 |         34 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/store/constants.js                      | JavaScript     |          3 |          0 |          2 |          5 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/store/index.js                          | JavaScript     |          3 |          0 |          2 |          5 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/store/reducer.js                        | JavaScript     |         17 |          0 |          4 |         21 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Rank/style.js                                | JavaScript     |         75 |          0 |          6 |         81 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/index.jsx                          | JavaScript JSX |         59 |          5 |          6 |         70 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/store/actionCreators.js            | JavaScript     |         50 |          1 |          7 |         58 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/store/constants.js                 | JavaScript     |          4 |          0 |          4 |          8 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/store/index.js                     | JavaScript     |          3 |          0 |          2 |          5 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/store/reducer.js                   | JavaScript     |         20 |          0 |          5 |         25 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Recommend/style.js                           | JavaScript     |          8 |          0 |          2 |         10 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/index.jsx                         | JavaScript JSX |        126 |         13 |          9 |        148 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/mock.js                           | JavaScript     |        120 |          1 |          1 |        122 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/store/actionCreators.js           | JavaScript     |         38 |          0 |          6 |         44 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/store/constants.js                | JavaScript     |          4 |          0 |          2 |          6 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/store/index.js                    | JavaScript     |          3 |          0 |          2 |          5 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/store/reducer.js                  | JavaScript     |         20 |          0 |          4 |         24 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SingerInfo/style.js                          | JavaScript     |        102 |          0 |          7 |        109 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/index.jsx                            | JavaScript JSX |        158 |          5 |          9 |        172 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/store/actionCreators.js              | JavaScript     |        122 |          6 |         14 |        142 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/store/constants.js                   | JavaScript     |         16 |          0 |          1 |         17 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/store/index.js                       | JavaScript     |          4 |          0 |          2 |          6 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/store/reduer.js                      | JavaScript     |         40 |          0 |          2 |         42 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/Singers/style.js                             | JavaScript     |         52 |          0 |          6 |         58 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SongsList/index.jsx                          | JavaScript JSX |         52 |          1 |          8 |         61 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/application/SongsList/style.js                           | JavaScript     |        101 |          0 |          2 |        103 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/assets/global-style.js                                   | JavaScript     |         36 |          2 |          2 |         40 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/demo.css                                 | CSS            |        435 |         19 |         86 |        540 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/demo_index.html                          | HTML           |        815 |          2 |        113 |        930 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/iconfont.css                             | CSS            |        123 |          0 |         39 |        162 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/iconfont.js                              | JavaScript     |         18 |          0 |          3 |         21 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/assets/iconfont/iconfont.svg                             | XML            |         55 |          3 |         77 |        135 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/header/index.jsx                                  | JavaScript JSX |         31 |          1 |          5 |         37 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/header/style.js                                   | JavaScript     |         23 |          0 |          3 |         26 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/horizon-item/index.jsx                            | JavaScript JSX |         53 |          0 |          5 |         58 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/horizon-item/style.js                             | JavaScript     |         29 |          0 |          4 |         33 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/loading/index.jsx                                 | JavaScript JSX |         15 |          0 |          3 |         18 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/loading/style.js                                  | JavaScript     |         49 |          0 |          4 |         53 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/scroll/index.jsx                                  | JavaScript JSX |        146 |         13 |          7 |        166 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/baseUI/scroll/style.js                                   | JavaScript     |         26 |          0 |          5 |         31 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/components/list/index.jsx                                | JavaScript JSX |         53 |          1 |          4 |         58 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/components/list/style.js                                 | JavaScript     |         66 |          2 |          5 |         73 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/components/slider/index.jsx                              | JavaScript JSX |         46 |          1 |          5 |         52 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/components/slider/style.js                               | JavaScript     |         34 |          0 |          2 |         36 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/index.js                                                 | JavaScript     |         11 |          3 |          3 |         17 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/reportWebVitals.js                                       | JavaScript     |         12 |          0 |          2 |         14 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/routes/index.jsx                                         | JavaScript JSX |         54 |          4 |          3 |         61 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/setupTests.js                                            | JavaScript     |          1 |          4 |          1 |          6 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/store/index.jsx                                          | JavaScript JSX |          6 |          0 |          3 |          9 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/store/reducer.jsx                                        | JavaScript JSX |         15 |          0 |          2 |         17 |
+| /Users/zer02/Project/ReactProj/cloud-music2/src/style.js                                                 | JavaScript     |         52 |          1 |          1 |         54 |
+| Total                                                                                                    |                |      5,475 |        112 |        656 |      6,243 |
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
